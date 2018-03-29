@@ -1,5 +1,5 @@
 package src
 
-func Sum(aaa int, bbb int) int {
-  return aaa + bbb
+func Sum(c int, bbb int) int {
+  return c + bbb
 }

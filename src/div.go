@@ -1,5 +1,5 @@
 package src
 
-func Div(aaa int, bbb int) int {
-  return aaa / bbb
+func Div(c int, bbb int) int {
+  return c / bbb
 }

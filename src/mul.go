@@ -1,5 +1,5 @@
 package src
 
-func Mul(aaa int, b int) int {
-  return aaa * bb
+func Mul(aaa int, bbb int) int {
+  return aaa * bbb
 }

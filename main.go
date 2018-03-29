@@ -8,7 +8,7 @@ func main() {
   div := src.Div(8, 2)
   mul := src.Mul(3, 2)
 
-  fmt.Println("sum: ", sum)
   fmt.Println("div: ", div)
+  fmt.Println("sum: ", sum)
   fmt.Println("mul: ", mul)
 }
